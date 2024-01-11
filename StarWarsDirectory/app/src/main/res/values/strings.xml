@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StarWars Directory</string>
+    <string name="films_by">Films of : %1$s</string>
+    <string name="sort_by">Sort By</string>
+    <string name="created_at">Created At</string>
+    <string name="updated_at">Updated At</string>
+    <string name="names">Names</string>
+    <string name="filter">Filter</string>
+    <string name="hair_color">Hair Color</string>
+    <string name="skin_color">Skin Color</string>
+    <string name="eye_color">Eye Color</string>
+    <string name="star_wars_characters">Star Wars Characters</string>
+</resources>
